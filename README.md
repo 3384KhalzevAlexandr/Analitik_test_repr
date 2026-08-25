@@ -13,3 +13,9 @@ python model_temp.py
 python model_no_temp.py
 python reverse_regression.py
 ```
+
+Для установки необходимых библиотек из корневой директории выполните:
+
+```
+pip install -r requirements.txt
+```
